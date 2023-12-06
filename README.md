@@ -1,7 +1,7 @@
 <br>
 <br>
 </center>
-![WhatsApp Image 2023-12-06 at 17 44 44](https://github.com/Mariu520/Projeto-Final-Semana18/assets/141267058/22b4aa64-4390-4091-853c-0df722265ee3)
+<img src= WhatsApp Image 2023-12-06 at 17 44 44](https://github.com/Mariu520/Projeto-Final-Semana18/assets/141267058/22b4aa64-4390-4091-853c-0df722265ee3)
 </center>
 <br>
 <br>
@@ -13,7 +13,7 @@
 <br>
 <br>
 </center>
-![WhatsApp Image 2023-12-06 at 17 34 13](https://github.com/Mariu520/Projeto-Final-Semana18/assets/141267058/9878346f-86bc-4bbb-bbaf-e70cafaaaec4)
+<img src= WhatsApp Image 2023-12-06 at 17 34 13 "https://github.com/Mariu520/Projeto-Final-Semana18/assets/141267058/9878346f-86bc-4bbb-bbaf-e70cafaaaec4" style="width:60.0%;height:50.0%"/>
 </center>
 <br>
 <br>
