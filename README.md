@@ -8,7 +8,7 @@
 
 ## <p align="center"><b> Casamento antes dos 18 anos </b>  <p>
 
-###  Projeto Final {Reprograma} - Proporção de mulheres de 20 a 24 anos que se casaram ou viveram em união de fato antes dos 15 e 18 anos no mundo. 
+###   Mulheres de 20 a 24 anos que se casaram ou viveram em união de fato antes dos 15 e 18 anos no mundo. 
 
 
 <br>
@@ -17,11 +17,11 @@
 
 <p align="center">
   
-  Se tratando de um assunto onde se relaciona e mostra a fragilidade e vulnerabilidade das crianças, adolescentes e mulheres, os meninos dependendo da região global também estão vulneráveis. Deste modo, veremos que é um assunto envolvendo os meninos antes mesmo da maioridade em alguns países. Tema complexo e com poucas informações para o público geral, por vários motivos; questões como o machismo estruturalizado, o patriarcado enraizado em alguns nos países, correlação da cultura e religiosidade de alguns continentes. 
+  Trata-se de um assunto onde se relaciona e mostra a fragilidade e vulnerabilidade de crianças, adolescentes e mulheres. Deste modo, veremos que é um assunto envolvendo ambos os gêneros antes mesmo da maioridade em alguns países. Tema complexo e com poucas informações para o público geral, por vários motivos; questões como o machismo estruturalizado, o patriarcado enraizado em alguns países, correlação sociocultural e religiosidade de alguns Países. 
  
- Poderemos observar que um dos países em que  ocorrem muitos casos de casamentos clandestinos no mundo como a Índia, não é citado na base de dados, o que nos faz questionar o porque de não serem mencionados? Quais razões não permitiram fornecer estes dados?
+ Podemos observar que a Índia é citada nesta base de dados, assim como a Russia, o que nos faz questionar o porque de não serem mencionados, e quais razões não permitiram fornecer estes dados.
  
- O objetivo dessa análise de dados é que para a sociedade como um todo, e as autoridades mundiais conversem entre si para que esses acontecimentos contra os corpos de crianças e adolescentes não sejam explorados e não tenham tais ações normalizadas usando cunho religioso ou cultural. Tais coportamentos acaba interferindo diretamente na vida futura de muitas meninas e meninos que passam a ter traumas irreparaveis e uma responsabilidades antes da puberdade, ceifando sonhos, marginalizando pessoas e tornando um ciclo vicioso e difícil de ser quebrado. 
+ O objetivo dessa análise de dados, é fomentar a sociedade como um todo, as autoridades mundiais para conversarem entre si para que esses acontecimentos contra os corpos de crianças, adolescentes e mulheres não sejam explorados e violados. Não permitindo tais ações normalizadas pelo cunho religioso ou cultural. Intensos coportamentos acaba interferindo diretamente na vida futura tendo traumas irreparaveis e uma responsabilidades antes da puberdade, ceifando sonhos, marginalizando pessoas e tornando um ciclo vicioso difícil de ser quebrado. 
 
 <br>
 <br>
@@ -32,7 +32,7 @@
 <br>
  
 
-Teremos um CSV com as informações que tirarei os dados para a análise, dentro do arquivo CSV iremos fazer os seguintes aperfeiçoamentos. 
+O Datasetc com as informações usada para a análise foi retirado do banco de dados da ONU, dentro do arquivo CSV fiz fazer os seguintes aperfeiçoamentos: 
 
 * Coleta de dados;
 * Limpeza de Dados;    
@@ -44,12 +44,8 @@ Usando as seguintes ferramentas:
 * import pandas as pd
 * import matplotlib.pyplot as plt
 * import numpy as np
-<center>
 
 A pesquisa foi retirado das seguintes fontes:
-* https://informationisbeautiful.net/
 * https://gender-data-hub-2-undesa.hub.arcgis.com/pages/indicators#Theme3
 * https://gender-data-hub-2-undesa.hub.arcgis.com/pages/c13ddacbea794f24801db44a4955eee6
 
-Imagens: 
-* [https://reprograma.com.br/](https://tse4.mm.bing.net/th?id=OIP.NldSm96qBuhZUNiKnYtlBgHaEo&pid=Api&P=0&h=180)https://tse4.mm.bing.net/th?id=OIP.NldSm96qBuhZUNiKnYtlBgHaEo&pid=Api&P=0&h=180
