@@ -1,15 +1,15 @@
 <h1 align="center">
 
 <p align="center">
-<img src= "https://tse4.mm.bing.net/th?id=OIP.NldSm96qBuhZUNiKnYtlBgHaEo&pid=Api&P=0&h=50" width="40%" height="20%"/>
+<img src= "https://observatorio3setor.org.br/wp-content/uploads/2023/07/casamento-infantil.jpg" width="40%" height="20%"/>
 </p>
 
+# Curso de Análise de Dados | Turma On26 de 2023 da [{Reprograma}](https://www.reprograma.com.br/).
 
-<p align="center"><b> Casamento antes dos 18 anos </b>  <p>
+## <p align="center"><b> Casamento antes dos 18 anos </b>  <p>
 
- <br> Projeto Final {Reprograma} - Proporção de mulheres de 20 a 24 anos que se casaram ou viveram em união de fato antes dos 15 e 18 anos no mundo. 
+###  Projeto Final {Reprograma} - Proporção de mulheres de 20 a 24 anos que se casaram ou viveram em união de fato antes dos 15 e 18 anos no mundo. 
 
-## Curso de Análise de Dados | Turma On26 de 2023 da [{Reprograma}](https://www.reprograma.com.br/).
 
 <br>
 <br>
