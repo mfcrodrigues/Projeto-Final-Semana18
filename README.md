@@ -32,7 +32,7 @@
 <br>
  
 
-O Datasetc com as informações usada para a análise foi retirado do banco de dados da ONU, dentro do arquivo CSV fiz fazer os seguintes aperfeiçoamentos: 
+O Dataset com as informações usada para a análise foi retirado do banco de dados da ONU, dentro do arquivo CSV fiz os seguintes aperfeiçoamentos: 
 
 * Coleta de dados;
 * Limpeza de Dados;    
@@ -48,4 +48,7 @@ Usando as seguintes ferramentas:
 A pesquisa foi retirado das seguintes fontes:
 * https://gender-data-hub-2-undesa.hub.arcgis.com/pages/indicators#Theme3
 * https://gender-data-hub-2-undesa.hub.arcgis.com/pages/c13ddacbea794f24801db44a4955eee6
+
+Link para visualição das análises feitas no Tableau:
+* https://public.tableau.com/views/Casamentoantesdos18anos_/reaContinental?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
