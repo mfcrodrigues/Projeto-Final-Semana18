@@ -26,7 +26,7 @@
 <br>
 <br>
 
- *Esta análise não é oficializada por nenhum orgão competente, foi uma análise exploratório com a intenção de dá ouvidos a qem nos chama.*
+ *Esta análise não é oficializada por nenhum orgão competente, foi uma análise exploratório com a intenção de dá ouvidos aquem nos chama.*
  
 <br>
 <br>
