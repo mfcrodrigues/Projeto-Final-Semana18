@@ -51,7 +51,7 @@ A pesquisa foi retirado das seguintes fontes:
 * https://gender-data-hub-2-undesa.hub.arcgis.com/pages/c13ddacbea794f24801db44a4955eee6
 
 Link para visualição das análises feitas no Tableau:
-* https://public.tableau.com/views/Casamentoantesdos18anos_/reaContinental?:language=pt-BR&:display_count=n&:origin=viz_share_link
+* https://public.tableau.com/app/profile/maria.de.fatima.da.costa.rodrigues/viz/PROJETOFIMALMFCR/Comparativos
 
 Link para visualização da aparentação no Canva:
 * https://www.canva.com/design/DAF2aV4j6r8/asD_kwFO1jQhxFJzOHH2nA/edit?utm_content=DAF2aV4j6r8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
