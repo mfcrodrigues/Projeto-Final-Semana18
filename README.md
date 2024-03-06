@@ -17,11 +17,11 @@
 
 <p align="center">
   
-  Trata-se de um assunto onde se relaciona e mostra a fragilidade e vulnerabilidade de crianças, adolescentes e mulheres. Deste modo, veremos que é um assunto envolvendo ambos os gêneros antes mesmo da maioridade em alguns países. Tema complexo e com poucas informações para o público geral, por vários motivos; questões como o machismo estruturalizado, o patriarcado enraizado em alguns países, correlação sociocultural e religiosidade de alguns Países. 
+  Trata-se de um assunto onde se relaciona e mostra a fragilidade e vulnerabilidade de crianças, adolescentes e mulheres. Aqui abordarei um assunto envolvendo ambos os gêneros antes mesmo da maioridade em alguns países. Tema complexo e com poucas informações para o público geral, por vários motivos; questões como o machismo estruturalizado, o patriarcado enraizado em alguns países, correlação sociocultural e religiosidade de alguns Países. 
  
- Podemos observar que a Índia é citada nesta base de dados, assim como a Russia, o que nos faz questionar o porque de não serem mencionados, e quais razões não permitiram fornecer estes dados.
+ Podemos observar que a Índia não é citada nesta base de dados, um país em que é de conhecimento global o indice alto de casos de relação com crianças. O  que nos faz questionar o porque de não serem mencionados, e quais razões não permitiram fornecer estes dados na base de dados da ONU(Organização das Nações Unidades).
  
- O objetivo dessa análise de dados, é fomentar a sociedade como um todo, as autoridades mundiais para conversarem entre si para que esses acontecimentos contra os corpos de crianças, adolescentes e mulheres não sejam explorados e violados. Não permitindo tais ações normalizadas pelo cunho religioso ou cultural. Intensos coportamentos acaba interferindo diretamente na vida futura tendo traumas irreparaveis e uma responsabilidades antes da puberdade, ceifando sonhos, marginalizando pessoas e tornando um ciclo vicioso difícil de ser quebrado. 
+ O objetivo dessa análise de dados, é fomentar a sociedade como um todo, as autoridades mundiais para conversarem entre si para que esses acontecimentos contra os corpos de crianças, adolescentes e mulheres não sejam explorados e violados. Não permitindo tais ações normalizadas pelo cunho religioso ou cultural. Violações que interferem diretamente no futuro dessas crianças, adolecesntes e mulheres, tendo traumas irreparaveis e uma responsabilidades antes da puberdade, ceifando sonhos, marginalizando pessoas e tornando um ciclo vicioso difícil de ser quebrado. 
 
 <br>
 <br>
@@ -32,7 +32,8 @@
 <br>
  
 
-O Dataset com as informações usada para a análise foi retirado do banco de dados da ONU, dentro do arquivo CSV fiz os seguintes aperfeiçoamentos: 
+O Dataset com as informações usada para está análise de dados foram retiradas do banco de dados da ONU.
+No arquivo CSV fiz os seguintes aperfeiçoamentos: 
 
 * Coleta de dados;
 * Limpeza de Dados;    
