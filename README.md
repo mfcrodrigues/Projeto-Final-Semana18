@@ -17,16 +17,16 @@
 
 <p align="center">
   
-  Trata-se de um assunto onde se relaciona e mostra a fragilidade e vulnerabilidade de crianças, adolescentes e mulheres. Aqui abordarei um assunto envolvendo ambos os gêneros antes mesmo da maioridade em alguns países. Tema complexo e com poucas informações para o público geral, por vários motivos; questões como o machismo estruturalizado, o patriarcado enraizado em alguns países, correlação sociocultural e religiosidade de alguns Países. 
+  Trata-se de um assunto delicado e de cunho social, mostrando a fragilidade e a vulnerabilidade de crianças, adolescentes e mulheres. Aqui abordarei um assunto envolvendo ambos os gêneros, antes mesmo da maioridade em alguns países. Tema complexo, e com poucas informações para o público geral, por vários motivos; questões como o machismo estruturalizado, o patriarcado enraizado, correlação sociocultural e religiosidade de alguns Países. 
  
- Podemos observar que a Índia não é citada nesta base de dados, um país em que é de conhecimento global o indice alto de casos de relação com crianças. O  que nos faz questionar o porque de não serem mencionados, e quais razões não permitiram fornecer estes dados na base de dados da ONU(Organização das Nações Unidades).
+ Podemos observar que a Índia não é citada nesta base de dados, um país em que é de conhecimento global o indice alto de casos de relação de matrimônio com crianças. O  que nos faz questionar o porque de não serem mencionados, e quais razões não permitiram fornecer estes dados na base de dados da ONU(Organização das Nações Unidades).
  
  O objetivo dessa análise de dados, é fomentar a sociedade como um todo, as autoridades mundiais para conversarem entre si para que esses acontecimentos contra os corpos de crianças, adolescentes e mulheres não sejam explorados e violados. Não permitindo tais ações normalizadas pelo cunho religioso ou cultural. Violações que interferem diretamente no futuro dessas crianças, adolecesntes e mulheres, tendo traumas irreparaveis e uma responsabilidades antes da puberdade, ceifando sonhos, marginalizando pessoas e tornando um ciclo vicioso difícil de ser quebrado. 
 
 <br>
 <br>
 
- *Está análise não é oficializada por nenhum orgão competente, foi uma análise exploratório com a intenção de dá ouvidos a qem nos chama.*
+ *Esta análise não é oficializada por nenhum orgão competente, foi uma análise exploratório com a intenção de dá ouvidos a qem nos chama.*
  
 <br>
 <br>
